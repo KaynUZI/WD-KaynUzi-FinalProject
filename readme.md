@@ -157,9 +157,9 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Google | Picture, Logos, images | Google.com |
-| Pinterest | Picture, Logos, images | pinterest.com |
-| Bootstrap | stylesheet | [Google.com](https://getbootstrap.com) |
-| Deployment Link | Published site link | [Google.com](https://kaynuzi.github.io/WD-Seatwork-4/index.html) |
+| Google | Picture, Logos, images | [Google.com](https://www.google.com/search?client=opera-gx&q=google&sourceid=opera&ie=UTF-8&oe=UTF-8) |
+| Pinterest | Picture, Logos, images | [pinterest.com](https://ph.pinterest.com) |
+| Bootstrap | stylesheet | [getbootstrap.com](https://getbootstrap.com) |
+| Deployment Link | Published site link | [Github.com]([https://kaynuzi.github.io/WD-Seatwork-4/index.html](https://kaynuzi.github.io/WD-KaynUzi-FinalProject/)) |
 | Youtube | Song | [Youtube.com](https://www.youtube.com) |
 
