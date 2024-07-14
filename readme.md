@@ -4,23 +4,23 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/KaynUZI/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/Front page logo.png" alt="Logo" width="130" height="130">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Final Project</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+This project involves creating a personal portfolio website to showcase your design and web development skills. The website will feature at least five unique pages, each demonstrating distinct layouts and styles. Key components include resume-like information, a project showcase with descriptions and repository links, and an engaging overview of the site's purpose. Utilizing HTML, CSS, JavaScript, and libraries like Font Awesome, Google Fonts, and Bootstrap, you'll design a visually appealing and functional site. The project also requires deployment using GitHub Actions, comprehensive code submission, and a detailed README file with WakaTime integration for tracking coding activity.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=KaynUZI/WD-Seatwork-4)
 
 ---
 
@@ -61,16 +61,56 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
+  
+The project involves building a personal website that serves as a portfolio to showcase your design skills and web development knowledge. This website must include at least five distinct pages, each demonstrating different layout styles and containing resume-like information, project showcases, and an engaging overview of your website's purpose and content.
+
 - Whats the purpose
+  
+The purpose of the project is to create a comprehensive and visually appealing personal portfolio website. This website should highlight your web development skills, including HTML, CSS, and JavaScript, while effectively presenting your past projects and professional qualifications. It aims to serve as a professional online presence where potential employers or clients can learn about your skills and view examples of your work.
+
 - What are key components
-- What technology used and how it is used
+  
+  Website Structure and Content:
+
+Minimum of 5 distinct pages.
+Resume-like information highlighting skills, experience, and qualifications.
+Dedicated project showcase page with descriptions and repository links.
+Engaging overview page explaining the website's purpose and content.
+Unique and visually appealing design layouts for each page.
+Technology and File Structure:
+
+Use of pure HTML, CSS, and JavaScript.
+Inclusion of libraries like Font Awesome, Google Fonts, Bootstrap, Material UI, or Tailwind CSS for enhanced styling and functionality.
+Organized file structure with HTML files named index.html and external CSS files.
+Subfolders for content organization (e.g., projects, resume).
+Deployment and Code Submission:
+
+Deployment using GitHub Actions for online accessibility.
+Comprehensive code submission including HTML, CSS, JavaScript files, and assets.
+README File:
+
+Standard README format including project title, description, technology stack, file structure explanation, deployment instructions, links, and references.
+WakaTime integration for tracking coding activity.
+
+  
+Website Structure and Content:
+
+HTML: Structuring the content and layout of the website.
+CSS: Styling the website to ensure visually appealing and distinct layouts for each page.
+JavaScript: Adding interactivity and dynamic content to the website.
+Libraries:
+Font Awesome: For adding scalable vector icons.
+Google Fonts: For enhanced typography.
+Bootstrap/Material UI/Tailwind CSS: For responsive design and pre-built components.
+GitHub Actions: For automating the deployment process and making the website accessible online.
+WakaTime: For tracking and reporting coding activity within the project repository.
+
 
 ### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+Multi-Page Website: A minimum of five distinct pages, each with unique layouts and content.
+Single Page Website: Optional addition of a single page overview or landing page with sections linking to detailed pages.
+Parallax Transition: Implementation of parallax scrolling effects to create an engaging visual experience.
+Transactional: Ensuring smooth navigation and interaction across pages for a seamless user experience.
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -117,4 +157,9 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Google | Picture, Logos, images | Google.com |
+| Pinterest | Picture, Logos, images | pinterest.com |
+| Bootstrap | stylesheet | [Google.com](https://getbootstrap.com) |
+| Deployment Link | Published site link | [Google.com](https://kaynuzi.github.io/WD-Seatwork-4/index.html) |
+| Youtube | Song | [Youtube.com](https://www.youtube.com) |
+
