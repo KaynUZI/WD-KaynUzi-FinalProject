@@ -9,11 +9,11 @@
     <img src="./assets/img/Front page logo.png" alt="Logo" width="130" height="130">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Seatwork 4</h3>
+  <h3 align="center">Final Project</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-This project showcases distinct design layouts for different features using pure HTML and CSS. The website includes multiple pages for demonstration and emphasizes layout design. The website is structured, deployed, and the README file is updated accordingly.
+This project involves creating a personal portfolio website to showcase your design and web development skills. The website will feature at least five unique pages, each demonstrating distinct layouts and styles. Key components include resume-like information, a project showcase with descriptions and repository links, and an engaging overview of the site's purpose. Utilizing HTML, CSS, JavaScript, and libraries like Font Awesome, Google Fonts, and Bootstrap, you'll design a visually appealing and functional site. The project also requires deployment using GitHub Actions, comprehensive code submission, and a detailed README file with WakaTime integration for tracking coding activity.
 </div>
 
 <br />
