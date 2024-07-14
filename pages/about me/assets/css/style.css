@@ -1,0 +1,27 @@
+/* Reset default margins and padding */
+body, html {
+    margin: 0;
+    padding: 0;
+  }
+
+  /* Center the content vertically */
+  .container {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+  }
+
+  .about-me {
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background for readability */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+  }
+
+  /* Optional: Adjust styles for specific screen sizes using Bootstrap grid classes */
+  @media (max-width: 768px) {
+    .about-me {
+      background-color: rgba(255, 255, 255, 0.95); /* Increase opacity on smaller screens */
+      padding: 15px;
+    }
+  }
