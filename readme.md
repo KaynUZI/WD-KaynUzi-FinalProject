@@ -4,23 +4,23 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/KaynUZI/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/Front page logo.png" alt="Logo" width="130" height="130">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Seatwork 4</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+This project showcases distinct design layouts for different features using pure HTML and CSS. The website includes multiple pages for demonstration and emphasizes layout design. The website is structured, deployed, and the README file is updated accordingly.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=KaynUZI/WD-Seatwork-4)
 
 ---
 
@@ -61,9 +61,37 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
+  
+The project is a Feature Display Website. It showcases distinct design layouts for different features using pure HTML and CSS. The website includes various sections such as a header, main content area, navigation menu, feature displays, and a footer.
+
 - Whats the purpose
+  
+The purpose of the project is to demonstrate the application of HTML and CSS in creating visually appealing and functional web pages. It aims to highlight different design features, present information clearly, and provide an interactive user experience. Additionally, it serves as a learning tool to understand the principles of web design and front-end development.
+
 - What are key components
+  
+Header: Contains the website title and navigation menu with links to different sections.
+
+Main Content Area: Provides a welcoming message and an overview of the project’s purpose.
+
+Navigation Menu: Offers links to different feature pages.
+
+Feature Displays: Sections that showcase various products or features with images and descriptions.
+
+Footer: Provides additional information and links, such as copyright information.
+
+CSS Styling: Includes styling rules to control the layout, color scheme, typography, and responsiveness of the website.
+
 - What technology used and how it is used
+  
+HTML: Used to structure the content of the web pages. It defines the layout and elements such as headers, paragraphs, images, and links.
+
+CSS: Applied to style the HTML content. It controls the visual presentation, including colors, fonts, spacing, and positioning of elements. Specific CSS rules are used to set background images, adjust logo sizes, and style different sections of the page.
+
+Bootstrap: Integrated to provide a responsive grid system and pre-styled components, making it easier to create a consistent and adaptable layout.
+
+JavaScript (if applicable): Could be used to add interactivity, such as handling events (e.g., clicking buttons to show/hide content), and enhancing the user experience.
+External Resources: Links to external resources such as Google Fonts for typography and Bootstrap CDN for responsive design.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -117,4 +145,8 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Google | Picture, Logos, images | Google.com |
+| Pinterest | Picture, Logos, images | pinterest.com |
+| Bootstrap | stylesheet | [Google.com](https://getbootstrap.com) |
+| Deployment Link | Published site link | [Google.com](https://kaynuzi.github.io/WD-Seatwork-4/index.html) |
+
