@@ -62,43 +62,55 @@ Description of the project in details.
 Guiding Question:
 - What is the project
   
-The project is a Feature Display Website. It showcases distinct design layouts for different features using pure HTML and CSS. The website includes various sections such as a header, main content area, navigation menu, feature displays, and a footer.
+The project involves building a personal website that serves as a portfolio to showcase your design skills and web development knowledge. This website must include at least five distinct pages, each demonstrating different layout styles and containing resume-like information, project showcases, and an engaging overview of your website's purpose and content.
 
 - Whats the purpose
   
-The purpose of the project is to demonstrate the application of HTML and CSS in creating visually appealing and functional web pages. It aims to highlight different design features, present information clearly, and provide an interactive user experience. Additionally, it serves as a learning tool to understand the principles of web design and front-end development.
+The purpose of the project is to create a comprehensive and visually appealing personal portfolio website. This website should highlight your web development skills, including HTML, CSS, and JavaScript, while effectively presenting your past projects and professional qualifications. It aims to serve as a professional online presence where potential employers or clients can learn about your skills and view examples of your work.
 
 - What are key components
   
-Header: Contains the website title and navigation menu with links to different sections.
+  Website Structure and Content:
 
-Main Content Area: Provides a welcoming message and an overview of the project’s purpose.
+Minimum of 5 distinct pages.
+Resume-like information highlighting skills, experience, and qualifications.
+Dedicated project showcase page with descriptions and repository links.
+Engaging overview page explaining the website's purpose and content.
+Unique and visually appealing design layouts for each page.
+Technology and File Structure:
 
-Navigation Menu: Offers links to different feature pages.
+Use of pure HTML, CSS, and JavaScript.
+Inclusion of libraries like Font Awesome, Google Fonts, Bootstrap, Material UI, or Tailwind CSS for enhanced styling and functionality.
+Organized file structure with HTML files named index.html and external CSS files.
+Subfolders for content organization (e.g., projects, resume).
+Deployment and Code Submission:
 
-Feature Displays: Sections that showcase various products or features with images and descriptions.
+Deployment using GitHub Actions for online accessibility.
+Comprehensive code submission including HTML, CSS, JavaScript files, and assets.
+README File:
 
-Footer: Provides additional information and links, such as copyright information.
+Standard README format including project title, description, technology stack, file structure explanation, deployment instructions, links, and references.
+WakaTime integration for tracking coding activity.
 
-CSS Styling: Includes styling rules to control the layout, color scheme, typography, and responsiveness of the website.
-
-- What technology used and how it is used
   
-HTML: Used to structure the content of the web pages. It defines the layout and elements such as headers, paragraphs, images, and links.
+Website Structure and Content:
 
-CSS: Applied to style the HTML content. It controls the visual presentation, including colors, fonts, spacing, and positioning of elements. Specific CSS rules are used to set background images, adjust logo sizes, and style different sections of the page.
+HTML: Structuring the content and layout of the website.
+CSS: Styling the website to ensure visually appealing and distinct layouts for each page.
+JavaScript: Adding interactivity and dynamic content to the website.
+Libraries:
+Font Awesome: For adding scalable vector icons.
+Google Fonts: For enhanced typography.
+Bootstrap/Material UI/Tailwind CSS: For responsive design and pre-built components.
+GitHub Actions: For automating the deployment process and making the website accessible online.
+WakaTime: For tracking and reporting coding activity within the project repository.
 
-Bootstrap: Integrated to provide a responsive grid system and pre-styled components, making it easier to create a consistent and adaptable layout.
-
-JavaScript (if applicable): Could be used to add interactivity, such as handling events (e.g., clicking buttons to show/hide content), and enhancing the user experience.
-External Resources: Links to external resources such as Google Fonts for typography and Bootstrap CDN for responsive design.
 
 ### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+Multi-Page Website: A minimum of five distinct pages, each with unique layouts and content.
+Single Page Website: Optional addition of a single page overview or landing page with sections linking to detailed pages.
+Parallax Transition: Implementation of parallax scrolling effects to create an engaging visual experience.
+Transactional: Ensuring smooth navigation and interaction across pages for a seamless user experience.
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -149,4 +161,5 @@ WD-ProjectName
 | Pinterest | Picture, Logos, images | pinterest.com |
 | Bootstrap | stylesheet | [Google.com](https://getbootstrap.com) |
 | Deployment Link | Published site link | [Google.com](https://kaynuzi.github.io/WD-Seatwork-4/index.html) |
+| Youtube | Song | [Youtube.com](https://www.youtube.com) |
 
