@@ -1,0 +1,61 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url("./assets/img/Velvet\ Room\ Background.gifs");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.144); /* semi-transparent white background */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    max-width: 800px;
+    text-align: center;
+}
+
+.title h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+.title h3 {
+    font-size: 1.2em;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.buttonHolder {
+    margin-bottom: 20px;
+}
+
+.projectButton {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.projectButton:hover {
+    background-color: #0056b3;
+}
+
+.cardHolder {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}

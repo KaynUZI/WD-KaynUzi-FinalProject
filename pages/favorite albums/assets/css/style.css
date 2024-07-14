@@ -1,0 +1,142 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+    color: #fff;
+}
+
+.container {
+    width: 80%;
+    margin: 40px auto;
+    text-align: center;
+}
+
+.music-player {
+    background-color: #069251;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.circle {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #333;
+    color: #fff;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.circle:hover {
+    background-color: #444;
+}
+
+.album-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.song-img {
+    width: 30%;
+    height: 40%;
+    object-fit: fill;
+    border-radius: 2px;
+}
+
+
+.song-img iframe {
+    border: none;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;/
+}
+
+.song-img:hover {
+    transform: scale(1.1);
+}
+
+.controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+}
+
+.controls i {
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.controls i:hover {
+    color: #666;
+}
+
+#progress {
+    width: 100%;
+    height: 10px;
+    border-radius: 10px;
+    background-color: #ddd;
+    cursor: pointer;
+}
+
+#progress::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #333;
+    cursor: pointer;
+}
+
+.back-button {
+    display: block;
+    text-decoration: none;
+}
+
+.back-button .circle {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px; /* Adjust as needed */
+}
+
+.back-button .circle i {
+    color: white;
+    font-size: 20px;
+}
+
+.song-img1 {
+    width: 30%;
+    height: 30%;
+    object-fit: fill;
+    border-radius: 2px;
+}
+
+
+.song-img1 iframe {
+    border: none;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.song-img:hove1 {
+    transform: scale(1.1);
+}
+
+.music-player1 {
+    background-color: #561674;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
