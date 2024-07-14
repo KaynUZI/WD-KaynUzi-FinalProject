@@ -7,7 +7,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url("./assets/img/Velvet\ Room\ Background.gifs");
+    background-image: url("../img/Velvet\ Room\ Background.gif");
     background-size: cover;
     background-repeat: no-repeat;
 }
