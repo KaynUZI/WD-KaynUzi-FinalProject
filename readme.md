@@ -163,3 +163,8 @@ WD-ProjectName
 | Deployment Link | Published site link | [Github.com]([https://kaynuzi.github.io/WD-Seatwork-4/index.html](https://kaynuzi.github.io/WD-KaynUzi-FinalProject/)) |
 | Youtube | Song | [Youtube.com](https://www.youtube.com) |
 
+
+Wakatime: https://wakatime.com/@018f02fd-7721-4ab9-b6cb-4e889a1b6680
+
+![image](https://github.com/user-attachments/assets/dbad5a32-06f9-42e5-9458-1abb1d3d31d2)
+
